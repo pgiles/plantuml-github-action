@@ -10,7 +10,7 @@ inputs:
 
 runs:
     using: 'docker'
-    image: 'docker://pgiles/plantuml'
+    image: 'docker://pgiles/plantuml:1.2021.7'
     args:
       - ${{ inputs.args }}
 
