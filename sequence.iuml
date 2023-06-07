@@ -78,7 +78,7 @@ skinparam arrow {
 
 skinparam sequence {
   Box {
-    FontColor #9e9e9e
+    FontColor #c42b2b
     BackgroundColor #f0f0f0
     BorderColor #c0c0c0
   }
